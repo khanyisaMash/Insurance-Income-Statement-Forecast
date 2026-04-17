@@ -38,3 +38,9 @@ Assumptions & Inputs:
 
 ## 📈 Key Insights
 ![NetCashflowCurve](images/j_curve.png)
+- The business generates a **Year 1 loss of R45.8M**, creating a significant liquidity constraint.
+- **Break-even is achieved in Year 2**, indicating relatively fast capital recovery.
+
+![RevenueVsProfit](images/revenue_vs_profit.png)
+- Profit grows **exponentially**, while revenue grows **linearly**, due to upfront acquisition costs being cleared and maturing policy cohorts generating stable income.
+- By Year 5, the business reaches a **17.7% net profit margin**.
