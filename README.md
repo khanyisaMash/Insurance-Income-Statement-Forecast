@@ -35,3 +35,6 @@ Step 4: Financial Statements Consolidation
 Assumptions & Inputs:
 
 ![Assumptions](images/assumptions.png)
+
+## 📈 Key Insights
+![NetCashflowCurve](images/j curve.png)
