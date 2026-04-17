@@ -17,9 +17,11 @@ The model is built using a bottom-up modeling approach, focusing on monthly poli
  - Active policies at each month were calculated as prior period policies adjusted for lapses.
  
 **Step 2: Revenue And Cost Drivers**
+
  Derived key financial metrics using insurance industry definitions foe example: Gross premium = Active policies* monthly premium.
  
  **Step 3: Channel Level Modeling**
+ 
  Modeled all 3 sales channels independently, each with:
  - Channel sales- Cohort tables are built in these tabs.
  - Channel calculations - 60 months of income statements are calculated on these tabs.
