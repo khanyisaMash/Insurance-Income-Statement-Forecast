@@ -32,8 +32,6 @@ Step 4: Financial Statements Consolidation
  - Built the cummulative Net Cashflow curve(J-curve to assess profitability  and capital recovery timing) in the visuals tab.
  - Built the Annual Revenue Vs Net Profit graph to assess margin expansion in the visual tab.
 
+Assumptions & Inputs:
 
-
-
-Key assumptions:
 ![Assumptions](images/assumptions.png)
