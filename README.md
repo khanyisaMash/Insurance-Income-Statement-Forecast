@@ -10,6 +10,7 @@ The model compares **three sales channels** with distinct commission strategies 
 ---
 ## ⚙️ Methodology
 The model is built using a bottom-up modeling approach, focusing on monthly policy behavior to drive total portfolio results.
+
 **Step 1: Cohort construction**
  - Created a 60-months cohort table to track policies from acquisition throught to maturity.
  - Each cohort represent a monthly batch of new policies.
