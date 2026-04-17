@@ -12,3 +12,4 @@ The model compares **three sales channels** with distinct commission strategies 
 The model is built using a bottom-up modeling approach, focusing on monthly policy behavior to drive total portfolio results.
 
 Key assumptions:
+![Assumptions](images/assumptions.png)
