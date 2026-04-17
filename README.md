@@ -71,4 +71,13 @@ Assumptions & Inputs:
   To absorb volatility in lapse rates and acquisition costs.
   
   ---
-  
+ ## 🛠 Tools & Skills
+**Tools:**
+- Microsoft Excel  
+
+**Skills:**
+- Financial Modeling  
+- Cohort Analysis  
+- Forecasting  
+- Scenario Analysis   
+---
