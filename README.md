@@ -35,7 +35,7 @@ Step 4: Financial Statements Consolidation
 Assumptions & Inputs:
 
 ![Assumptions](images/assumptions.png)
-
+---
 ## 📈 Key Insights
 ![NetCashflowCurve](images/j_curve.png)
 - The business generates a **Year 1 loss of R45.8M**, creating a significant liquidity constraint.
@@ -44,3 +44,29 @@ Assumptions & Inputs:
 ![RevenueVsProfit](images/revenue_vs_profit.png)
 - Profit grows **exponentially**, while revenue grows **linearly**, due to upfront acquisition costs being cleared and maturing policy cohorts generating stable income.
 - By Year 5, the business reaches a **17.7% net profit margin**.
+
+### Channel Dynamics
+- **Channel 1:** Is the primary value creator bringing in the big balance sheet(high upfront cost, high lifetime value).
+- **Channels 2 & 3:** Provide early cash flow and reduce liquidity pressure.  
+- The model mix highlights a **trade-off between liquidity and long-term profitability**
+
+---
+
+## ⚠️ Risks Identified
+
+- High upfront commissions in Channel 1 create **early-stage cash flow risk**
+- Profitability is highly sensitive to **early policy lapses fluctuations (months 1–12)**.
+- Capital requirements will be high for the business(~R50M) and may increase under adverse scenarios.
+---
+## 💡 Recommendations
+
+- **Improve retention in Channel 1 (Months 1–12):**  
+  Invest in targeted retention initiatives because early lapses result in guaranteed capital loss due to prepaid commissions.
+
+- **Scale Channel 2 strategically:**  
+  It's regressive tiered commission structure produces more **capital-efficient earnings** .
+
+- **Maintain a capital buffer (~R50M):**  
+  To absorb volatility in lapse rates and acquisition costs.
+  ---
+  
