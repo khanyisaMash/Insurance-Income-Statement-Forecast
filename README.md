@@ -37,4 +37,4 @@ Assumptions & Inputs:
 ![Assumptions](images/assumptions.png)
 
 ## 📈 Key Insights
-![NetCashflowCurve](images/j curve.png)
+![NetCashflowCurve](images/j%20curve%20.png)
