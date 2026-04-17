@@ -35,6 +35,7 @@ Step 4: Financial Statements Consolidation
 Assumptions & Inputs:
 
 ![Assumptions](images/assumptions.png)
+
 ---
 ## 📈 Key Insights
 ![NetCashflowCurve](images/j_curve.png)
@@ -44,7 +45,7 @@ Assumptions & Inputs:
 ![RevenueVsProfit](images/revenue_vs_profit.png)
 - Profit grows **exponentially**, while revenue grows **linearly**, due to upfront acquisition costs being cleared and maturing policy cohorts generating stable income.
 - By Year 5, the business reaches a **17.7% net profit margin**.
-
+---
 ### Channel Dynamics
 - **Channel 1:** Is the primary value creator bringing in the big balance sheet(high upfront cost, high lifetime value).
 - **Channels 2 & 3:** Provide early cash flow and reduce liquidity pressure.  
@@ -68,5 +69,6 @@ Assumptions & Inputs:
 
 - **Maintain a capital buffer (~R50M):**  
   To absorb volatility in lapse rates and acquisition costs.
+  
   ---
   
